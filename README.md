@@ -1,3 +1,5 @@
+https://gist.github.com/jboner/2841832
+
 ### Latency numbers every programmer should know
     L1 cache reference ......................... 0.5 ns
     Branch mispredict ............................ 5 ns
